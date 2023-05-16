@@ -20,13 +20,13 @@ section {
 }
 
 h1 {
-  font-size: 2.5rem;
-  font-family: 'Rubik Dirt', cursive;
+  font-size: 3 rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .seccion-oscura {
   color: white;
-  background-color: #1b1b32;
+  background-color: rgb(15, 15, 224);
 }
 
 .seccion-clara {
@@ -37,7 +37,7 @@ h1 {
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 .seccion-descripcion {
@@ -281,7 +281,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: rgb(11, 17, 71);
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
